@@ -1,5 +1,7 @@
 {
   "name": "tab4",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
